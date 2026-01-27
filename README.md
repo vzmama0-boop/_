@@ -82,5 +82,5 @@ a {
   </section>  <section class="about">
   </section>  <footer>
     <p>Instagram: <a href="https://instagram.com/llamarghini" target="_blank">@llamarghini</a></p>
-    <p>© 2025 vzmama</p>
+    <p>© 2026 vzmama</p>
   </footer></body>
