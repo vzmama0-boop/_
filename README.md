@@ -66,7 +66,7 @@ a {
   </style>
 <body>  <header>
     <h1>vzmama</h1>
-    <p>Automotive & Visuals</p>
+    <p>Gallery</p>
   </header>  <section>
     <div class="gallery">
       <!-- Replace images below with your own -->
@@ -80,9 +80,6 @@ a {
       <img src="car 08.jpg" alt="photo 8">   
     </div>
   </section>  <section class="about">
-    <p>
-      This website features a collection of visuals centered around cars and automotive culture, created by a student enthusiast
-    </p>
   </section>  <footer>
     <p>Instagram: <a href="https://instagram.com/llamarghini" target="_blank">@llamarghini</a></p>
     <p>© 2025 vzmama</p>
