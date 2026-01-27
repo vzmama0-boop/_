@@ -76,8 +76,8 @@ a {
       <img src="car 04.jpg" alt="Photo 4">
       <img src="car 05.jpg" alt="photo 5">
       <img src="car 06.jpg" alt="photo 6">
-      <img src="car 07.jpg" alt="photo 7">
-      <img src="car 08.jpg" alt="photo 8">   
+      <img src="jdm 1.jpg" alt="photo 7">
+      <img src="jdm 2.jpg" alt="photo 8">   
     </div>
   </section>  <section class="about">
   </section>  <footer>
