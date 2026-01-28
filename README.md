@@ -72,8 +72,8 @@ a {
       <!-- Replace images below with your own -->
       <img src="car 01.jpg" alt="Photo 1">
       <img src="car 02.jpg" alt="Photo 2">
-      <img src="car 03.jpg" alt="Photo 3">
-      <img src="car 04.jpg" alt="Photo 4">
+      <img src="pop.jpg" alt="Photo 3">
+      <img src="pop1.jpg" alt="Photo 4">
       <img src="car 05.jpg" alt="photo 5">
       <img src="car 06.jpg" alt="photo 6">
       <img src="jdm 1.jpg" alt="photo 7">
