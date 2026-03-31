@@ -77,7 +77,7 @@ a {
       <img src="car 05.jpg" alt="photo 5">
       <img src="cina1.jpg" alt="photo 6">
       <img src="jdm 1.jpg" alt="photo 7">
-      <img src="jdm 2.jpg" alt="photo 8">   
+      <img src="cina3.jpg" alt="photo 8">   
     </div>
   </section>  <section class="about">
   </section>  <footer>
