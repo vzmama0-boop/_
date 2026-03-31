@@ -75,7 +75,7 @@ a {
       <img src="pop3.jpg" alt="Photo 3">
       <img src="pop1.jpg" alt="Photo 4">
       <img src="car 05.jpg" alt="photo 5">
-      <img src="car 06.jpg" alt="photo 6">
+      <img src="cina1.jpg" alt="photo 6">
       <img src="jdm 1.jpg" alt="photo 7">
       <img src="jdm 2.jpg" alt="photo 8">   
     </div>
