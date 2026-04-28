@@ -81,6 +81,6 @@ a {
     </div>
   </section>  <section class="about">
   </section>  <footer>
-    <p>Instagram: <a href="https://instagram.com/llamarghini" target="_blank">@yuziboost</a></p>
+    <p>Instagram: <a href="https://instagram.com/llamarghini" target="_blank">@torqu3_</a></p>
     <p>© 2026 vzmama</p>
   </footer></body>
