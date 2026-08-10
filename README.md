@@ -79,7 +79,9 @@ a {
       <img src="jdm 1.jpg" alt="photo 7">
       <img src="cina3.jpg" alt="photo 8">
        <img src="to.jpg" alt="photo 9">
-       <img src="que.jpg" alt="photo 10"> 
+       <img src="que.jpg" alt="photo 10">
+       <img src="yoh.jpg" alt="photo 11">
+       <img src="yoho.jpg" alt="photo 12"> 
     </div>
   </section>  <section class="about">
   </section>  <footer>
