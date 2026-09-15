@@ -83,6 +83,12 @@ a {
        <img src="yoh.jpg" alt="photo 11">
        <img src="yoho.jpg" alt="photo 12">
       <img src="f4.jpg" alt="photo 13">
+       <img src="mc.jpg" alt="photo 14">
+       <img src="mc1.jpg" alt="photo 15">
+       <img src="mc2.jpg" alt="photo 16">
+       <img src="mc3.jpg" alt="photo 17">
+       <img src="mc4.jpg" alt="photo 18">
+       <img src="mc5.jpg" alt="photo 19">
     </div>
   </section>  <section class="about">
   </section>  <footer>
