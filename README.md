@@ -65,7 +65,7 @@ a {
 
   </style>
 <body>  <header>
-    <h1>vzmama</h1>
+    <h1>zema</h1>
     <p>Gallery</p>
   </header>  <section>
     <div class="gallery">
@@ -86,5 +86,5 @@ a {
   </section>  <section class="about">
   </section>  <footer>
     <p>Instagram: <a href="https://instagram.com/llamarghini" target="_blank">@torqu3_</a></p>
-    <p>© 2026 vzmama</p>
+    <p>© 2026 zema</p>
   </footer></body>
