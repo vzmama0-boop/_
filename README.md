@@ -65,7 +65,7 @@ a {
 
   </style>
 <body>  <header>
-    <h1>zema</h1>
+    <h1>Zema's</h1>
     <p>Gallery</p>
   </header>  <section>
     <div class="gallery">
